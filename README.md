@@ -1,2 +1,2 @@
-# Gender-Reveal-Scratch-Off-01
-Gender Reveal Scratch Off 
+# Bridesmaid-Scratch-Card-01
+Bridesmaid Scratch Card
